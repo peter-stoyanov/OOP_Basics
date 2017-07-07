@@ -293,5 +293,5 @@ __pycache__/
 *.csproj
 *.config
 *.code
-
+*.sln
 Properties/
