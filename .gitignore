@@ -289,3 +289,7 @@ __pycache__/
 
 *.rar
 *.zip
+
+*.csproj
+*.config
+*.code
