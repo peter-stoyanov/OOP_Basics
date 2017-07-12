@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NeedForSpeed.Models.Car">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCAAAAAAAABIgAAAAQAAACAAABAABgEARABAAA=</HashCode>
+      <FileName>Models\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeedForSpeed.Models.PerformanceCar" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIABCAAAAAECAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\PerformanceCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NeedForSpeed.NeedForSpeed" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>NeedForSpeed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
